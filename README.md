@@ -1,2 +1,2 @@
 # booking-app
-Booking app practice
+MERN Stack booking app
